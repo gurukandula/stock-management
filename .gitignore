@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__
+db.sqlite3
+venv/
+django_env/
+
+# Node.js
+node_modules/
+build/
+
+# Environment Files
+.env
